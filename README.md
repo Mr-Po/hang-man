@@ -12,6 +12,7 @@
 ## 截图
 
 [![2HJ0JI.jpg](https://z3.ax1x.com/2021/06/15/2HJ0JI.jpg)](https://imgtu.com/i/2HJ0JI)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMr-Po%2Fhang-man.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMr-Po%2Fhang-man?ref=badge_shield)
 
 [![2HJBWt.jpg](https://z3.ax1x.com/2021/06/15/2HJBWt.jpg)](https://imgtu.com/i/2HJBWt)
 
@@ -38,3 +39,6 @@ git clone git@github.com:Mr-Po/hang-man.git
 ```
 mvn compile exec:java
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMr-Po%2Fhang-man.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMr-Po%2Fhang-man?ref=badge_large)
