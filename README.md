@@ -1,5 +1,9 @@
 # 刽子手 小游戏 
+[![Build Status](https://travis-ci.com/Mr-Po/hang-man.svg?branch=master)](https://travis-ci.com/Mr-Po/hang-man)
+[![Language grade: Java](https://img.shields.io/lgtm/grade/java/github/Mr-Po/hang-man?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Mr-Po/hang-man/context:java)
 
+[![Release](https://img.shields.io/github/v/release/Mr-Po/hang-man)](../../releases)
+[![License](https://img.shields.io/github/license/Mr-Po/hang-man?color=blue)](LICENSE)
 
 
 ## 描述
