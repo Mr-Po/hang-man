@@ -1,0 +1,13 @@
+language: java
+
+sudo: false
+os: linux
+jdk: openjdk8
+
+before_install: sudo apt-get install -y openjfx
+
+# 开启虚拟gui服务
+services: xvfb
+
+# 跳过maven完整构建
+install: true
