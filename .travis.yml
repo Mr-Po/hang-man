@@ -10,4 +10,4 @@ before_install: sudo apt-get install -y openjfx
 services: xvfb
 
 # 跳过maven完整构建
-install: true
+#install: true
